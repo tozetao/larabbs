@@ -30,4 +30,5 @@ class CreateModelsCteagoriesTable extends Migration
     {
         Schema::dropIfExists('categories');
     }
+
 }
